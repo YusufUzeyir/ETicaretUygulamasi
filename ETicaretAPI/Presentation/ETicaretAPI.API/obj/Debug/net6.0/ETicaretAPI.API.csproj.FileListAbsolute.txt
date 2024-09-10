@@ -47,3 +47,4 @@ C:\Users\ASUS\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.AP
 C:\Users\ASUS\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Npgsql.dll
 C:\Users\ASUS\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\ASUS\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.sourcelink.json
