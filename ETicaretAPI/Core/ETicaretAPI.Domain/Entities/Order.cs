@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ETicaretAPI.Domain.Entities
 {
-    public class Order:BaseEntitie
+    public class Order:BaseEntity
     {
         public int CustomerId { get; set; }
         public string Description{ get; set; }
