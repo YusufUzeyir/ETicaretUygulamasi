@@ -25,7 +25,7 @@ namespace ETicaretAPI.API.Controllers
 
         public async Task Get()
         {
-            await _ordertWriteRepository.AddAsync(new() { Description = "bla bla", Address = "Ankara, Çankaya" });
+            await _ordertWriteRepository.AddAsync(new() { Description = "bla bla", Address = "Ankara, Çankayaa" });
             await _ordertWriteRepository.AddAsync(new() { Description = "bla bla2", Address = "Ankara, Mamak" });
             await _ordertWriteRepository.SaveAsync();
 
